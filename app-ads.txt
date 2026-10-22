@@ -163,5 +163,7 @@ triplelift.com, 8614, RESELLER, 6c33edb13117fd86
 bold-win.com, 1013, RESELLER, 71746737d0bab951
 appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
 my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
+monetrix.ai, 10761, RESELLER
+start.io, 131192070, RESELLER
 pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
 unity.com, 148208800, DIRECT, 96cabb5fbdde37a7
