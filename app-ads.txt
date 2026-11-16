@@ -167,3 +167,4 @@ monetrix.ai, 10761, RESELLER
 start.io, 131192070, RESELLER
 pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
 unity.com, 148208800, DIRECT, 96cabb5fbdde37a7
+playdigo.com, 1965, RESELLER
